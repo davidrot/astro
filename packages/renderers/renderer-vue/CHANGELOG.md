@@ -1,5 +1,11 @@
 # @astrojs/renderer-vue
 
+## 0.4.0-next.0
+
+### Minor Changes
+
+- [#2424](https://github.com/withastro/astro/pull/2424) [`1abb9ed0`](https://github.com/withastro/astro/commit/1abb9ed0800989f47351cc916f19fd8e0672e2c0) Thanks [@natemoo-re](https://github.com/natemoo-re)! - Upgrade to vite@2.8.x
+
 ## 0.3.0
 
 ### Minor Changes

@@ -1,5 +1,19 @@
 # astro
 
+## 0.23.0-next.4
+
+### Minor Changes
+
+- [#2424](https://github.com/withastro/astro/pull/2424) [`1abb9ed0`](https://github.com/withastro/astro/commit/1abb9ed0800989f47351cc916f19fd8e0672e2c0) Thanks [@natemoo-re](https://github.com/natemoo-re)! - Upgrade `vite` to `2.8.x`, unvendoring `vite` and bringing Astro up-to-date with the ecosystem
+
+### Patch Changes
+
+- [#2424](https://github.com/withastro/astro/pull/2424) [`1abb9ed0`](https://github.com/withastro/astro/commit/1abb9ed0800989f47351cc916f19fd8e0672e2c0) Thanks [@natemoo-re](https://github.com/natemoo-re)! - Fixes HMR of CSS that is imported from astro, when using the static build flag
+
+- Updated dependencies [[`1abb9ed0`](https://github.com/withastro/astro/commit/1abb9ed0800989f47351cc916f19fd8e0672e2c0)]:
+  - @astrojs/renderer-svelte@0.4.0-next.0
+  - @astrojs/renderer-vue@0.4.0-next.0
+
 ## 0.23.0-next.3
 
 ### Patch Changes
